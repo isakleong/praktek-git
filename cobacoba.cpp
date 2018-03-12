@@ -1,3 +1,6 @@
-ini coba ya
+#include <iostream>
+using namespace std;
 
-iya ini coba kok
+class Atmosphere{
+  private: int x,y;
+};
